@@ -1,0 +1,32 @@
+
+                                   -------  N-queens agent  -------
+
+    1)  PEAS
+      
+      - performance -->  fast , correct
+
+      - environment -->  queens , board chess
+
+      - actuators   -->  screen 
+
+      - sensors     -->  screen 
+
+
+
+
+    2)	ODESA
+
+      - observability --> fully observable
+
+      - determnistic  --> determnistic
+
+      - episode      -->  sequential
+
+      - static       -->  static
+
+      - agent        -->  single agent
+
+
+
+
+    3) agent type --> goal based agent
