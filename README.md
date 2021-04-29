@@ -1,3 +1,3 @@
 # N-queens-Game
 
-##AI project
+## AI project
